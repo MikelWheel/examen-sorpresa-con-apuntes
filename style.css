@@ -1,0 +1,41 @@
+div.bloque1{
+    display:inline-flex;
+    background-color: blue;
+    width: 490px;
+    height: 400px;
+}
+div.bloque2{
+    display:inline-flex;
+    background-color: red;
+    width: 490px;
+    height: 400px;
+}
+div.bloque3{
+    display:inline-flex;
+    background-color: yellow;
+    width: 490px;
+    height: 400px;
+}
+div.bloque4{
+    display: inline-flex;
+}
+div.bloque7{
+    display: inline-flex;
+    background-color: green;
+    width: 100%;
+    height: 30px;
+    text-align: justify;
+}
+p.back{
+    background-color:lightblue;
+}
+span.sub{
+    text-decoration-line: underline;
+}
+p.marron{
+    color: brown;
+}
+h4{
+    text-align: center;
+}
+
